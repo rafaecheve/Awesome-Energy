@@ -84,5 +84,5 @@ About Energy Market
 
 
 ## Energy Transition Bill
-- [Senado aprueba iniciativa para crear empresas en un día](http://eleconomista.com.mx/industrias/2015/12/09/diputados-aprueban-ley-transicion-energetica)
+- [Diputados aprueban Ley de Transición Energética](http://eleconomista.com.mx/industrias/2015/12/09/diputados-aprueban-ley-transicion-energetica)
 
