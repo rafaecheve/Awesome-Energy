@@ -81,3 +81,8 @@ About Energy Market
 - [Sapurakencana](http://sapurakencana.com)
 - [Petronas](http://www.petronas.com.my/)
 - [Japan Oil, Gas and Metals National Corporation](http://www.jogmec.go.jp/english/)
+
+
+## Energy Transition Bill
+- [Senado aprueba iniciativa para crear empresas en un día](http://eleconomista.com.mx/industrias/2015/12/09/diputados-aprueban-ley-transicion-energetica)
+
