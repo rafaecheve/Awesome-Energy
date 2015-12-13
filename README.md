@@ -4,6 +4,7 @@ About Energy Market
 ## Rondas
   - [ronda1](http://ronda1.gob.mx/)
   - [¿Quiénes ganaron los contratos de la fase dos de la Ronda Uno?](http://eleconomista.com.mx/industrias/2015/09/30/quienes-ganaron-las-licitaciones-fase-dos-ronda)
+  - [MODELO DE CONTRATO DE LICENCIA PARA LA TERCERA CONVOCATORIA DE LA RONDA UNO CAMPOS TERRESTRES](http://ronda1.gob.mx/wp-content/uploads/SENER_SHCP_CNH_3a-convocatoria_120515.pdf)
 
 
 ## Compañias Interesadas
