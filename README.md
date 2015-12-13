@@ -61,3 +61,21 @@ About Energy Market
 - Sapurakencana
 - Sierra Oil & Gas
 - Sinopec
+- 
+
+
+- [CHEIRON HOLDINGS LIMITED](http://cheironpetroleum.com)
+- [Armour Energy Limited](http://www.armourenergy.com.au)
+- [East West Petroleum](http://www.eastwestpetroleum.ca)
+- [GDF SUEZ E&P International](http://www.gdfsuezep.com)
+- [Gran Tierra Energy Inc.](http://www.grantierra.com)
+- [Lewis Energy México](http://www.lewisenergy.com)
+- [PACIFIC RUBIALES E&P MÉXICO](http://www.pacific.energy)
+- [RENAISSANCE OIL CORP](http://renaissanceoil.com)
+- [Sánchez-Olium](http://www.sanchezog.com)
+- [Tecpetrol Internacional](http://www.tecpetrol.com/)
+- [MAX ENERGY HOLDINGS](http://www.maxenergyholdings.com/)
+- [GALCA ENERGY](http://www.galcaenergy.com)
+
+- 
+
