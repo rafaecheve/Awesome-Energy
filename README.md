@@ -76,6 +76,4 @@ About Energy Market
 - [Tecpetrol Internacional](http://www.tecpetrol.com/)
 - [MAX ENERGY HOLDINGS](http://www.maxenergyholdings.com/)
 - [GALCA ENERGY](http://www.galcaenergy.com)
-
-- 
-
+- [Torenco Energy](http://www.torencoenergy.com)
