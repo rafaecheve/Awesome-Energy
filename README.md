@@ -42,3 +42,21 @@ About Energy Market
 - Shell
 - Sierra Oil & Gas Sinopec
 - Statoil
+- BG Group
+- CNOOC
+- Compañía Española de Petróleo, S.A (CEPSA) DEA DEUTSCHE ERDOEL AG
+- Diavaz offshore
+- E&P Hidrocarburos y Servicios
+- Ecopetrol
+- ENI INTERNATIONAL
+- Exploration & Production PCL
+- Galp Energía E&P BV
+- NBL México INC.
+- PEMEX
+- Perforadora México
+- Petronas Carigali
+- Premier Oil
+- Sánchez Oil & Gas Corporation
+- Sapurakencana
+- Sierra Oil & Gas
+- Sinopec
