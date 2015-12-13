@@ -61,8 +61,8 @@ About Energy Market
 - Sapurakencana
 - Sierra Oil & Gas
 - Sinopec
-- 
 
+## Companies
 
 - [CHEIRON HOLDINGS LIMITED](http://cheironpetroleum.com)
 - [Armour Energy Limited](http://www.armourenergy.com.au)
@@ -77,3 +77,7 @@ About Energy Market
 - [MAX ENERGY HOLDINGS](http://www.maxenergyholdings.com/)
 - [GALCA ENERGY](http://www.galcaenergy.com)
 - [Torenco Energy](http://www.torencoenergy.com)
+- [Sinopec](http://www.sinopecgroup.com/)
+- [Sapurakencana](http://sapurakencana.com)
+- [Petronas](http://www.petronas.com.my/)
+- [Japan Oil, Gas and Metals National Corporation](http://www.jogmec.go.jp/english/)
